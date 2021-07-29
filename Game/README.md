@@ -11,10 +11,10 @@ You need to earn motivation through doing different activities, like showering, 
 You can lose by either trying to do homework with an insufficient amount of motivation or scrolling through social media.
 
 ## Hints:
-•	You can only do activities that give you motivation once
-•	You can do activities in any order you choose
-•	You’ll need to find a mask in order to go outside
-o	So maybe you should change out of your two-day old sweatpants first
-•	The Decision key is: A=00 B=01 C=10 D=11
-o	If it seems like the game is not processing your ‘Decision,’ write it twice in a row (I think this may be because it needs to stay in that state for an extra clock cycle)
-•	If you want to challenge yourself, you can try to earn all of the possible motivation, but this might take a while because my game has 21 different states
+-	You can only do activities that give you motivation once
+-	You can do activities in any order you choose
+-	You’ll need to find a mask in order to go outside
+  -	So maybe you should change out of your two-day old sweatpants first
+-	The Decision key is: A=00 B=01 C=10 D=11
+  -	If it seems like the game is not processing your ‘Decision,’ write it twice in a row (I think this may be because it needs to stay in that state for an extra clock cycle)
+-	If you want to challenge yourself, you can try to earn all of the possible motivation, but this might take a while because my game has 21 different states
